@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anirudhasher
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Salesforce
-- 💞️ I’m looking to collaborate on tech
+- 🌱 I’m currently growing my company Atomic Asher LLP www.atomicAsher.com
 
 <!---
 anirudhasher/anirudhasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
