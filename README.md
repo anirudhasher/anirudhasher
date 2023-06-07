@@ -2,6 +2,7 @@
 - 👀 I’m interested in saving lives and leaving the world better than when I came into existence
 - 🌱 Currently growing my company Atomic Asher LLP www.AtomicAsher.com
 - Follow us on our social media via our custom built micro-link site: https://x.AtomicAsher.com
+- [<img height="36" src="https://cdn.simpleicons.org/Twitter"/>](https://twitter.com/AtomicAsher) &nbsp;
 
 [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhasher)](https://github.com/anuraghazra/github-readme-stats)
 <!---
